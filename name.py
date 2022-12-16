@@ -6,7 +6,7 @@ userdict={'Aakarsh376':'your_mom',  'Chinzxzmai':'qwerty','Tivon':'qwerty'}
 a=int(input())
 os.system('cls')
 if a==1:
-    login_id=input("Login ID:")
+    login_id=input("Sign in ID:")
     pswd=input("Password:")
     userdict[login_id]=pswd
     print("user id created")
